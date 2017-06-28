@@ -1,0 +1,22 @@
+{
+	"Levels": [{
+		"LevelID": 0,
+		"Scenario": 0,
+		"Time": 0,
+		"Targets": [{
+			"Prefab": "prefab",
+			"Position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}],
+		"Objective": {
+			"Description": "ObjectiveDescription",
+			"MinimumPoints": 0
+		},
+		"Player": {
+			"AvailableArrows": 10
+		}
+	}]
+}
